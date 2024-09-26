@@ -1,0 +1,2 @@
+1. intro to Git
+2. intro to functions and plotting in Python
